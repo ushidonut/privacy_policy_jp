@@ -1,24 +1,23 @@
-# Privacy Policy
-
-This app uses SkyWay WebRTC platform.
-Please check the SkyWay Terms of Service below.  
-https://webrtc.ecl.ntt.com/en/terms.html
+・プライバシーポリシー・
 
 
-In this application, AdMob (Google Inc.) is used as an advertisement distribution tool, 
-and AdMob may automatically acquire user information. 
-For information on the information to be acquired, 
-the purpose of use, and the provision to third parties, 
-please check the link of the application privacy policy of the advertising distribution company below.
 
-Google Ads Policy  
-https://policies.google.com/technologies/ads?hl=en
+[ 利用者情報の取得 ]
+本アプリが利用者の個人情報を取得することはありません。
 
 
-This application uses Firebase (Google Inc.) as a tool to collect app usage data for reference in future development,
-and Firebase may automatically obtain user information. 
-Please refer to the Google Privacy Policy below for more information about the information we collect, 
-the purposes for which we use it, and how we provide it to third parties.
+[ 利用者情報の利用 ]
+本アプリが利用者の個人情報を利用することはありません。
 
-Google Privacy Policy  
-https://policies.google.com/privacy
+
+[ 利用者情報の第三者提供 ]
+本アプリが利用者の個人情報を第三者へ提供することはありません。
+
+
+[ 使用ツール ]
+本アプリでは、広告配信ツールとしてAdMob(Google Inc.)を使用しており、AdMobが利用者の情報を自動取得する場合があります。 取得する情報、利用目的、第三者への提供等につきましては、広告配信事業者のアプリケーション・プライバシーポリシーよりご確認ください。
+
+
+[ お問い合わせ先 ]
+何かご不明な点がございましたら下記からお問い合わせください。
+お問い合わせフォーム
